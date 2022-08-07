@@ -1,0 +1,9 @@
+export const actionTypes = {
+    SET_LOADING: "SET_LOADING",
+    SET_ERROR: "SET_ERROR",
+    SET_CHARACTERS: "SET_CHARACTERS",
+    SET_NEW_ROUND: "SET_NEW_ROUND",
+    SET_ROUND_TIME_LEFT: "SET_ROUND_TIME_LEFT",
+    LOOSE: "LOOSE",
+    WIN: "WIN",
+  };
