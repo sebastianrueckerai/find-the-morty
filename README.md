@@ -1,10 +1,8 @@
 # FIND MORTY
 
-A game to test your reaction time & knowledge of obscure Rick & Morty charactert.
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A game to test your reaction time & knowledge of obscure Rick & Morty characters.
 
 ## Available Scripts
-
 In the project directory, you can run:
 
 ### `yarn start` or `npm start`
