@@ -3,6 +3,7 @@
 A game to test your reaction time & knowledge of obscure Rick & Morty characters.
 
 ## Available Scripts
+
 In the project directory, you can run:
 
 ### `yarn start` or `npm start`
@@ -27,6 +28,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `yarn test` or `npm run test`
+
+Run tests with jest. You can do `jest --coverage` to see test coverage.
 
 ### `firebase deploy`
 
